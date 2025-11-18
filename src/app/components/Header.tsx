@@ -102,7 +102,7 @@ export default function Header() {
                 {/* Top Header Content - Kiri */}
                 <div className="top-header-meta">
                   <a
-                    href="#"
+                    href="mailto:infodeercreative@gmail.com" // <-- Rekomendasi perbaikan
                     data-toggle="tooltip"
                     data-placement="bottom"
                     title="infodeercreative@gmail.com"
@@ -111,7 +111,7 @@ export default function Header() {
                     <span>Email: infodeercreative@gmail.com</span>
                   </a>
                   <a
-                    href="#"
+                    href="tel:+1234122122" // <-- Rekomendasi perbaikan
                     data-toggle="tooltip"
                     data-placement="bottom"
                     title="+1 234 122 122"
